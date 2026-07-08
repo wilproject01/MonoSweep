@@ -40,8 +40,11 @@ Download file zip ( MonoSweep.py )
 Extrack file, lalu pindahkan file MonoSweep.py kedalam directory yang ingin di eksekusi
 Buka terminal pada directory tersebut, lalu input perintah seperti berikut :
 
-```chmod +x MonoSweep.py
-   ./MonoSweep.py
+```
+chmod +x MonoSweep.py
+```
+```
+./MonoSweep.py
 ```
 
 Setelah itu pilih menu yang tersedia:
