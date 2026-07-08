@@ -2,6 +2,15 @@
 
 MonoSweep adalah program berbasis terminal (CLI) yang dirancang untuk membantu Anda mengatur file-file di dalam suatu folder secara otomatis. Program ini cocok digunakan untuk membersihkan folder kerja, folder unduhan, atau direktori yang berisi banyak file dengan berbagai ekstensi.
 
+<img width="922" height="494" alt="tampilan1" src="https://github.com/user-attachments/assets/b42e8c4d-841d-47fc-b877-1d2a807d729f" />
+
+
+<img width="920" height="491" alt="tampilan2" src="https://github.com/user-attachments/assets/f4d80b56-5bf3-45e4-b038-efd6c494bc2e" />
+
+
+<img width="926" height="488" alt="tampilan3" src="https://github.com/user-attachments/assets/84b1352f-2b85-4fb3-a79d-7a0f8a389385" />
+
+
 ## Apa yang dapat dilakukan program ini?
 
 MonoSweep memiliki dua fitur utama:
