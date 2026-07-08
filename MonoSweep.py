@@ -358,7 +358,6 @@ def main():
     print(f"{BOLD}{CYAN}Membuka Sistem MonoSweep V.0.1...{RESET}")
     animasi_loading("Menginisialisasi Program..", 1.0)
     global VERIFIKASI_ISI_FILE
-
     while True:
         tampilkan_menu_utama()
         pilihan = input(f"{BOLD}{YELLOW}[?] Pilih nomor menu (1-3): {RESET}").strip()
@@ -383,7 +382,6 @@ def main():
                     break
                 else:
                     print(f"{RED}[!] Pilihan tidak valid. Masukkan 1 atau 2.{RESET}")
-
             animasi_loading("Membuka Modul Duplicate Cleaner", 0.8)
             menu_hapus_duplikat()
         elif pilihan == '3':
