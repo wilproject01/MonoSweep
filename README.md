@@ -33,19 +33,15 @@ MonoSweep memiliki dua fitur utama:
 ## Fitur Tambahan
 
 - Antarmuka menu yang sederhana dan mudah dipahami.
-- Terdapat animasi loading dan banner visual saat program berjalan.
 - Program berjalan lintas platform (Windows, Linux, macOS).
 
-## Persyaratan
-
-- Python 3.x
-
 ## Cara Menjalankan
+Download file zip ( MonoSweep.py )
+Extrack file, lalu pindahkan file MonoSweep.py kedalam directory yang ingin di eksekusi
+Buka terminal pada directory tersebut, lalu input perintah seperti berikut :
 
-Buka terminal, lalu masuk ke folder project, kemudian jalankan perintah berikut:
-
-```bash
-python3 MonoSweep.py
+```chmod +x MonoSweep.py
+   ./MonoSweep.py
 ```
 
 Setelah itu pilih menu yang tersedia:
